@@ -1,0 +1,282 @@
+{
+  ".com": {
+    "name": ".com",
+    "urls": {
+      "check": "http://www.%username%.com",
+      "view": "http://www.%username%.com",
+      "get": ""
+    }
+  },
+    ".net": {
+    "name": ".org",
+    "urls": {
+      "check": "http://www.%username%.org",
+      "view": "http://www.%username%.org",
+      "get": ""
+    }
+  },
+    ".com.au": {
+    "name": ".com.au",
+    "urls": {
+      "check": "http://www.%username%.com.au",
+      "view": "http://www.%username%.com.au",
+      "get": ""
+    }
+  },
+    ".info": {
+    "name": ".co",
+    "urls": {
+      "check": "http://www.%username%.info",
+      "view": "http://www.%username%.info",
+      "get": ""
+    }
+  },
+    ".net": {
+    "name": ".net",
+    "urls": {
+      "check": "http://www.%username%.net",
+      "view": "http://www.%username%.net",
+      "get": ""
+    }
+  },
+    ".biz": {
+    "name": ".biz",
+    "urls": {
+      "check": "http://www.%username%.biz",
+      "view": "http://www.%username%.biz",
+      "get": ""
+    }
+  },
+    ".email": {
+    "name": ".email",
+    "urls": {
+      "check": "http://www.%username%.email",
+      "view": "http://www.%username%.email",
+      "get": ""
+    }
+  },
+    ".net": {
+    "name": ".net",
+    "urls": {
+      "check": "http://www.%username%.net",
+      "view": "http://www.%username%.net",
+      "get": ""
+    }
+  },
+    ".build": {
+    "name": ".build",
+    "urls": {
+      "check": "http://www.%username%.build",
+      "view": "http://www.%username%.build",
+      "get": ""
+    }
+  },
+    ".agency": {
+    "name": ".net",
+    "urls": {
+      "check": "http://www.%username%.agency",
+      "view": "http://www.%username%.agency",
+      "get": ""
+    }
+  },
+    ".events": {
+    "name": ".net",
+    "urls": {
+      "check": "http://www.%username%.events",
+      "view": "http://www.%username%.events",
+      "get": ""
+    }
+  },
+    ".ninja": {
+    "name": ".ninja",
+    "urls": {
+      "check": "http://www.%username%.ninja",
+      "view": "http://www.%username%.ninja",
+      "get": ""
+    }
+  },
+    ".ws": {
+    "name": ".ws",
+    "urls": {
+      "check": "http://www.%username%.ws",
+      "view": "http://www.%username%.ws",
+      "get": ""
+    }
+  },
+    ".properties": {
+    "name": ".properties",
+    "urls": {
+      "check": "http://www.%username%.properties",
+      "view": "http://www.%username%.properties",
+      "get": ""
+    }
+  },
+    ".me": {
+    "name": ".me",
+    "urls": {
+      "check": "http://www.%username%.me",
+      "view": "http://www.%username%.net",
+      "get": ""
+    }
+  },
+   ".us": {
+    "name": ".us",
+    "urls": {
+      "check": "http://www.%username%.us",
+      "view": "http://www.%username%.us",
+      "get": ""
+    }
+  },
+  ".io": {
+    "name": ".io",
+    "urls": {
+      "check": "http://www.%username%.io",
+      "view": "http://www.%username%.io",
+      "get": ""
+    }
+  },
+  ".app": {
+    "name": ".app",
+    "urls": {
+      "check": "http://www.%username%.app",
+      "view": "http://www.%username%.app",
+      "get": ""
+    }
+  },
+  ".es": {
+    "name": ".es",
+    "urls": {
+      "check": "http://www.%username%.es",
+      "view": "http://www.%username%.es",
+      "get": ""
+    }
+  },
+  ".au": {
+    "name": ".au",
+    "urls": {
+      "check": "http://www.%username%.au",
+      "view": "http://www.%username%.au",
+      "get": ""
+    }
+  },
+  ".tv": {
+    "name": ".tv",
+    "urls": {
+      "check": "http://www.%username%.tv",
+      "view": "http://www.%username%.tv",
+      "get": ""
+    }
+  },
+  ".fun": {
+    "name": ".fun",
+    "urls": {
+      "check": "http://www.%username%.fun",
+      "view": "http://www.%username%.fun",
+      "get": ""
+    }
+  },
+  ".host": {
+    "name": ".host",
+    "urls": {
+      "check": "http://www.%username%.host",
+      "view": "http://www.%username%.host",
+      "get": ""
+    }
+  },
+  ".la": {
+    "name": ".la",
+    "urls": {
+      "check": "http://www.%username%.la",
+      "view": "http://www.%username%.la",
+      "get": ""
+    }
+  },
+  ".store": {
+    "name": ".store",
+    "urls": {
+      "check": "http://www.%username%.store",
+      "view": "http://www.%username%.store",
+      "get": ""
+    }
+  },
+  ".eu": {
+    "name": ".eu",
+    "urls": {
+      "check": "http://www.%username%.eu",
+      "view": "http://www.%username%.eu",
+      "get": ""
+    }
+  },
+  ".org": {
+    "name": ".org",
+    "urls": {
+      "check": "http://www.%username%.org",
+      "view": "http://www.%username%.org",
+      "get": ""
+    }
+  },
+  ".biz": {
+    "name": ".biz",
+    "urls": {
+      "check": "http://www.%username%.biz",
+      "view": "http://www.%username%.biz",
+      "get": ""
+    }
+  },
+  ".us": {
+    "name": ".us",
+    "urls": {
+      "check": "http://www.%username%.us",
+      "view": "http://www.%username%.us",
+      "get": ""
+    }
+  },
+  ".me": {
+    "name": ".me",
+    "urls": {
+      "check": "http://www.%username%.me",
+      "view": "http://www.%username%.me",
+      "get": ""
+    }
+  },
+  ".info": {
+    "name": ".info",
+    "urls": {
+      "check": "http://www.%username%.info",
+      "view": "http://www.%username%.info",
+      "get": ""
+    }
+  },
+  ".press": {
+    "name": ".press",
+    "urls": {
+      "check": "http://www.%username%.press",
+      "view": "http://www.%username%.press",
+      "get": ""
+    }
+  },
+  ".space": {
+    "name": ".space",
+    "urls": {
+      "check": "http://www.%username%.space",
+      "view": "http://www.%username%.space",
+      "get": ""
+    }
+  },
+  ".tech": {
+    "name": ".tech",
+    "urls": {
+      "check": "http://www.%username%.tech",
+      "view": "http://www.%username%.tech",
+      "get": ""
+    }
+  },
+  ".life": {
+    "name": ".life",
+    "urls": {
+      "check": "http://www.%username%.life",
+      "view": "http://www.%username%.life",
+      "get": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+
+@import "../../../styles/theme/index.css";
+
+.header {
+  background: #101010;
+  border-bottom: 2px solid #930f5b;
+  padding: 15px 0;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 500px) {
+  .header {
+    margin-bottom: 30px;
+    padding: 30px 0;
+  }
+}

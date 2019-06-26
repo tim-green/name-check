@@ -1,0 +1,170 @@
+{
+  "Facebook": {
+    "name": "Facebook",
+    "urls": {
+      "check": "https://www.facebook.com/%username%",
+      "view": "https://www.facebook.com/%username%",
+      "get": "https://www.facebook.com/signup"
+    }
+  },
+  "Pinterest": {
+    "name": "Pinterest",
+    "urls": {
+      "check": "https://www.pinterest.com/%username%",
+      "view": "https://www.pinterest.com/%username%",
+      "get": "https://www.pinterest.com/signup"
+    }
+  },
+  "Twitter": {
+    "name": "Twitter",
+    "urls": {
+      "check": "https://www.twitter.com/%username%",
+      "view": "https://www.twitter.com/%username%",
+      "get": "https://www.twitter.com/signup"
+    }
+  },
+  "Github": {
+    "name": "Github",
+    "urls": {
+      "check": "https://www.github.com/%username%",
+      "view": "https://www.github.com/%username%",
+      "get": "https://github.com/join"
+    }
+  },
+  "Instagram": {
+    "name": "Instagram",
+    "urls": {
+      "check": "https://www.instagram.com/%username%",
+      "view": "https://www.instagram.com/%username%",
+      "get": "https://www.instagram.com"
+    }
+  },
+  "Patreon": {
+    "name": "Patreon",
+    "urls": {
+      "check": "https://www.patreon.com/%username%",
+      "view": "https://www.patreon.com/%username%",
+      "get": "https://www.patreon.com/signup"
+    }
+  },
+  "YouTube": {
+    "name": "YouTube",
+    "urls": {
+      "check": "https://www.youtube.com/user/%username%",
+      "view": "https://www.youtube.com/user/%username%",
+      "get": "https://www.youtube.com/signup"
+    }
+  },
+  "Etsy": {
+    "name": "Etsy",
+    "urls": {
+      "check": "https://www.etsy.com/people/%username%",
+      "view": "https://www.etsy.com/people/%username%",
+      "get": "https://www.etsy.com/join"
+    }
+  },
+  "Flickr": {
+    "name": "Flickr",
+    "urls": {
+      "check": "https://www.flickr.com/photos/%username%/",
+      "view": "https://www.flickr.com/photos/%username%/",
+      "get": "https://www.flickr.com/"
+    }
+  }, 
+  "ProductHunt": {
+    "name": "ProductHunt",
+    "urls": {
+      "check": "https://www.producthunt.com/@%username%",
+      "view": "https://www.producthunt.com/@%username%",
+      "get": "https://www.producthunt.com/login"
+    }
+  },
+  "Twitch": {
+    "name": "Twitch",
+    "urls": {
+      "check": "https://www.twitch.tv/%username%",
+      "view": "https://www.twitch.tv/%username%",
+      "get": "https://www.twitch.tv/signup"
+    }
+  },
+  "Ebay": {
+    "name": "Ebay",
+    "urls": {
+      "check": "https://www.ebay.com/usr/%username%",
+      "view": "https://www.ebay.com/usr/%username%",
+      "get": "https://reg.ebay.com/reg/PartialReg"
+    }
+  },
+  "Keybase": {
+    "name": "Keybase",
+    "urls": {
+      "check": "https://keybase.io/%username%",
+      "view": "https://keybase.io/%username%",
+      "get": "https://keybase.io/"
+    }
+  },
+  "Last.fm": {
+    "name": "Last.fm",
+    "urls": {
+      "check": "https://www.last.fm/user/%username%",
+      "view": "https://www.last.fm/user/%username%",
+      "get": "https://www.last.fm/join"
+    }
+  },
+  "Gog": {
+    "name": "Gog",
+    "urls": {
+      "check": "https://www.gog.com/u/%username%",
+      "view": "https://www.gog.com/u/%username%",
+      "get": "https://www.gog.com/"
+    }
+  },
+  "Medium": {
+    "name": "Medium",
+    "urls": {
+      "check": "https://medium.com/@%username%",
+      "view": "https://medium.com/@%username%",
+      "get": "https://medium.com/m/signin"
+    }
+  },
+  "Foursquare": {
+    "name": "Foursquare",
+    "urls": {
+      "check": "https://foursquare.com/%username%",
+      "view": "https://foursquare.com/%username%",
+      "get": "https://foursquare.com/signup"
+    }
+  },
+  "Steam": {
+    "name": "Steam",
+    "urls": {
+      "check": "https://steamcommunity.com/id/%username%",
+      "view": "https://steamcommunity.com/id/%username%",
+      "get": "https://store.steampowered.com/join/"
+    }
+  },
+  "BitBucket": {
+    "name": "BitBucket",
+    "urls": {
+      "check": "https://bitbucket.org/%username%/",
+      "view": "https://bitbucket.org/%username%/",
+      "get": "https://bitbucket.org/account/signup/"
+    }
+  },
+  "Spotify": {
+    "name": "Spotify",
+    "urls": {
+      "check": "http://open.spotify.com/user/%username%",
+      "view": "http://open.spotify.com/user/%username%",
+      "get": "https://www.spotify.com/signup/"
+    }
+  },
+  "TripAdvisor": {
+    "name": "TripAdvisor",
+    "urls": {
+      "check": "https://www.tripadvisor.com/members/%username%",
+      "view": "https://www.tripadvisor.com/members/%username%",
+      "get": "https://www.tripadvisor.com/"
+    }
+  }
+}

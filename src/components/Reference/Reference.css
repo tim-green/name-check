@@ -1,0 +1,55 @@
+
+@import "../../styles/theme/index.css";
+
+.reference {
+  padding: 10px 0px;
+  border-radius: 5px;
+  border: 1px solid var(--color-border-block);
+  margin: 0 auto 20px auto;
+  width: 230px;
+}
+
+@media (min-width: 500px) {
+  .reference {
+    width: 450px;
+    margin: 0 auto 30px auto;
+  }
+}
+
+.item {
+  display: inline-block;
+  height: 40px;
+  width: 180px;
+  margin: 5px 5px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+@media (min-width: 500px) {
+  .item {
+    width: 120px;
+    margin: 10px 10px;
+  }
+}
+
+.text {
+  padding: 11px 0;
+  color: var(--color-font-light);
+  font-size: 1rem;
+  text-align: center;
+}
+
+.unavailable {
+  background-color: var(--color-reference-unavailable);
+  border-color: var(--color-reference-unavailable-dark);
+}
+
+.available {
+  background-color: var(--color-reference-available);
+  border-color: var(--color-reference-available-dark);
+}
+
+.checking {
+  background-color: var(--color-reference-checking);
+  border-color: var(--color-reference-checking-dark);
+}

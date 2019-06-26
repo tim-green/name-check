@@ -1,0 +1,31 @@
+
+:root {
+  /** Fonts */
+  --color-font-dark:                  #5f5f5f;
+  --color-font-light:                 #ffffff;
+  /** Checkers */
+  --color-unchecked:                  #c7cdd0;
+  --color-unchecked-dark:             #b5b9bb;
+  --color-available:                  #d4edda;
+  --color-available-dark:             #c3e6cb;
+  --color-unavailable:                #f8d7da;
+  --color-unavailable-dark:           #f5c6cb;
+  --color-checking:                   #ffda70;
+  --color-checking-dark:              #ffce3c;
+  /** UI + layout */
+  --color-border-block:               #ececec;
+  --color-border-input:               #cccccc;
+  --color-highlights:                 var(--color-available);
+  --color-header:                     #101010;
+  --color-footer:                     #575c63;
+  --color-footer-dark:                #293039;
+  --color-input:                      #525151;
+  --color-input-disabled:             #a3a3a3;
+  /** Reference block **/
+  --color-reference-available:        var(--color-available);
+  --color-reference-available-dark:   var(--color-available-dark);
+  --color-reference-unavailable:      var(--color-unavailable);
+  --color-reference-unavailable-dark: var(--color-unavailable-dark);
+  --color-reference-checking:         #fff3cd;
+  --color-reference-checking-dark:    #ffeeba;
+}

@@ -1,0 +1,25 @@
+
+@import "./styles/_colors.css";
+@import "./styles/_images.css";
+
+/* Fonts */
+@font-face {
+  font-family: 'basis-grotesque';
+  src: url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.eot?#iefix') format('embedded-opentype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.woff') format('woff'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.ttf')  format('truetype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.svg#BasisGrotesquePro-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'basis-grotesque';
+  src: url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.eot?#iefix') format('embedded-opentype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.woff') format('woff'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.ttf')  format('truetype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.svg#basis-grotesque-regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

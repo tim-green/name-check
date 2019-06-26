@@ -1,0 +1,50 @@
+
+@import "../../../styles/theme/index.css";
+
+@font-face {
+  font-family: 'basis-grotesque';
+  src: url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.eot?#iefix') format('embedded-opentype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.woff') format('woff'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.ttf')  format('truetype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-bold.svg#BasisGrotesquePro-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'basis-grotesque';
+  src: url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.eot?#iefix') format('embedded-opentype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.woff') format('woff'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.ttf')  format('truetype'),
+       url('https://www.timgreen.ws/build/fonts/basis-grotesque-regular.svg#basis-grotesque-regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.sectionWrapper {
+  max-width: 1200px;
+  margin: 0px auto;
+  padding-bottom: 10px;
+}
+
+@media (min-width: 500px) {
+  .sectionWrapper {
+    padding-bottom: 30px;
+  }
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 400;
+  margin:4vw 0 0;
+  text-align: center;
+   font-family: 'basis-grotesque';
+}
+
+@media (min-width: 500px) {
+  .title {
+    font-size: 2.5rem;
+    margin-bottom: 0;
+  }
+}

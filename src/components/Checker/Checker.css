@@ -1,0 +1,70 @@
+
+@import "../../styles/theme/index.css";
+
+.checker {
+  margin: 5px 0;
+  width: 140px;
+  text-align: center;
+}
+
+@media (min-width: 700px) {
+  .checker {
+    margin: 10px 0;
+    width: 170px;
+  }
+}
+
+.link {
+  text-decoration: none;
+}
+
+.content {
+  margin: auto 10px;
+  padding: 8px 10px;
+  background-color: var(--color-unchecked);
+  border-radius: 5px;
+  border: 1px solid var(--color-unchecked-dark);
+  cursor: pointer;
+  font-size: 1rem;
+  color: var(--color-font-light);
+}
+
+@media (min-width: 700px) {
+  .content {
+    padding: 20px 10px;
+    font-size: 1.1rem;
+  }
+}
+
+.available .content {
+  background-color: var(--color-available);
+  border-color: var(--color-available-dark);
+}
+
+.unavailable .content {
+  background-color: var(--color-unavailable);
+  border-color: var(--color-unavailable-dark);
+}
+
+.checking .content {
+  background-color: var(--color-checking);
+  border-color: var(--color-checking-dark);
+  /* Safari 4.0 - 8.0
+      transparency | duration | timing-function | delay | iteration-count | direction */
+  -webkit-animation: opacity .8s ease-in 0s infinite alternate;
+  /* Standard syntax:
+      transparency | duration | timing-function | delay | iteration-count | direction */
+  animation: opacity .8s ease-in 0s infinite alternate;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes opacity {
+  from { opacity: .3; }
+  to { opacity: 1; }
+}
+
+/* Standard syntax */
+@keyframes opacity {
+  from { opacity: .3; }
+  to { opacity: 1; }
+}

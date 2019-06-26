@@ -1,0 +1,18 @@
+
+@import "../../styles/theme/index.css";
+
+.checkersGroup {
+  padding: 10px 0;
+  border: none;
+  text-align: center;
+}
+
+@media (min-width: 500px) {
+  .checkersGroup {
+  }
+}
+
+.item {
+  list-style: none;
+  display: inline-block;
+}

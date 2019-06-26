@@ -1,0 +1,39 @@
+
+@import "../../styles/theme/index.css";
+
+.contactUs {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.item {
+  background-color: var(--color-highlights);
+  border-radius: 10px;
+  display: inline-block;
+  margin: 5px 5px;
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+
+@media (min-width: 700px) {
+  .item {
+    width: 65px;
+    height: 65px;
+    margin: 5px 10px;
+  }
+}
+
+.icon {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(.7);
+}
+
+@media (min-width: 700px) {
+.icon {
+    transform: translate(-50%, -50%);
+  }
+}

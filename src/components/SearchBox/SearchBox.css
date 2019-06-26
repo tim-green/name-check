@@ -1,0 +1,53 @@
+
+@import "../../styles/theme/index.css";
+
+.searchBox {
+  margin: 0 auto;
+  border: 0;
+  color: var(--color-input);
+}
+
+.input {
+  outline: 0;
+  padding: 3px 20px;
+  font-size: 1.1rem;
+  border-radius: 5px;
+  width: 90%;
+}
+
+.disabled {
+  color: var(--color-input-disabled);
+}
+
+@media (min-width: 700px) {
+  .input {
+    margin-right: 5px;
+    padding: 3px 20px;
+    font-size: 2rem;
+    line-height: 1.4;
+    width: 450px;
+  }
+}
+
+.button {
+  display: block;
+  padding: 10px 20px;
+  margin: 10px auto 0 auto;
+  outline: 0;
+  border: 0;
+  color: var(--color-font-light);
+  background: linear-gradient(90deg,#c9373f 0,#930f5b);
+  position: relative;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+@media (min-width: 700px) {
+  .button {
+    margin: 0;
+    display: inline-block;
+    font-size: 2rem;
+    padding: 8px 20px;
+  }
+}
