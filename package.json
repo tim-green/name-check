@@ -74,6 +74,7 @@
     "prop-types": "^15.7.2",
     "raf": "3.4.1",
     "react": "^17.0.1",
+    "react-dev-utils": "^11.0.0",
   },
   "scripts": {
     "start": "node scripts/start.js",
