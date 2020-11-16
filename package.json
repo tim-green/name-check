@@ -70,6 +70,7 @@
     "postcss-flexbugs-fixes": "5.0.1",
     "postcss-import": "^13.0.0",
     "postcss-loader": "4.0.4",
+    "promise": "8.1.0",
   },
   "scripts": {
     "start": "node scripts/start.js",
