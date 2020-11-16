@@ -82,6 +82,7 @@
     "style-loader": "2.0.0",
     "sw-precache-webpack-plugin": "1.0.0",
     "url-loader": "4.1.1",
+    "webpack": "5.4.0",
     "whatwg-fetch": "3.5.0"
   },
   "scripts": {
