@@ -73,6 +73,7 @@
     "promise": "8.1.0",
     "prop-types": "^15.7.2",
     "raf": "3.4.1",
+    "react": "^17.0.1",
   },
   "scripts": {
     "start": "node scripts/start.js",
